@@ -1,0 +1,15 @@
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\bin\Debug\net8.0\Repositorio de agua.exe
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\bin\Debug\net8.0\Repositorio de agua.deps.json
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\bin\Debug\net8.0\Repositorio de agua.runtimeconfig.json
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\bin\Debug\net8.0\Repositorio de agua.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\bin\Debug\net8.0\Repositorio de agua.pdb
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.AssemblyInfoInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.AssemblyInfo.cs
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.csproj.CoreCompileInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.sourcelink.json
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\refint\Repositorio de agua.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.pdb
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\Repositorio de agua.genruntimeconfig.cache
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\RepositoriodeAgua\Repositorio de agua\obj\Debug\net8.0\ref\Repositorio de agua.dll
